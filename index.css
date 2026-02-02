@@ -1,14 +1,18 @@
-
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: border-box;
 }
 
 body {
   font-family: system-ui;
-  line-height: 1.5;
+  line-height: 2.5;
   margin: 2em;
 }
 
-h1, h2, h3, p {
-  margin-block: .25em;
+h1,
+h2,
+h3,
+p {
+  margin-block: 0.25em;
 }
