@@ -1,0 +1,10 @@
+{
+  "name": "nue-netlify",
+  "scripts": {
+    "dev": "bun nue",
+    "build": "bun nue build"
+  },
+  "dependencies": {
+    "nuekit": "^2.0.0-beta.2"
+  }
+}

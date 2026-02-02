@@ -1,0 +1,6 @@
+[build]
+command = "bun nue build"
+publish = "dist"
+
+[build.environment]
+BUN_VERSION = "latest"
